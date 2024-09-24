@@ -1,8 +1,8 @@
-
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="1000">
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ash</h2>
 
-<img align="right" height="330px" width="300px" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" align="right">
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -13,18 +13,24 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can reach me an email at trishacapitle01@gmail.com! I'll try to respond as soon as I can.\
 
+<br> <br>
 
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300" align="left">
+
+<br>
 
 ### 🛠 &nbsp;My primary techstack:
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,figma,git,nodejs,vite,electron,bootstrap,css,html&perline=7)](https://skillicons.dev)
+
+<br><br><br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/trishacapitle">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=trishacapitle&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="215em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=trishacapitle&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=trishacapitle&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
