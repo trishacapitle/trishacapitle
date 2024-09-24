@@ -2,6 +2,8 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ash</h2>
 
+<img align="right" height="330px" width="300px" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" />
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies for front-end development and create software solutions for efficient workflows.\
@@ -11,7 +13,7 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can reach me an email at trishacapitle01@gmail.com! I'll try to respond as soon as I can.\
 
-<img align="right" height="230px" width="200px" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" />
+
 
 ### 🛠 &nbsp;My primary techstack:
 
