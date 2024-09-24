@@ -11,7 +11,7 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can reach me an email at trishacapitle01@gmail.com! I'll try to respond as soon as I can.\
 
-<img align="right" height="500px" width="470px" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" />
+<img align="right" height="430px" width="400px" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" />
 
 ###🛠 &nbsp; My primary techstack:
 
