@@ -1,5 +1,3 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="1000">
-
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ash</h2>
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" align="right">
@@ -21,7 +19,7 @@
 
 ### 🛠 &nbsp;My primary techstack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,figma,git,nodejs,vite,electron,bootstrap,css,html&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,figma,git,nodejs,vite,electron,bootstrap,tailwind,css,html&perline=7)](https://skillicons.dev)
 
 <br><br><br>
 
