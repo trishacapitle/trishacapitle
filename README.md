@@ -9,7 +9,7 @@
 🌱 &nbsp;I'm on track for learning more about 3D websites, Framer Motion, eye-catching designs, and Generative AI web development.\
 ✍️ &nbsp;In my free time, I pursue 3D skills using Blender and Spline, and mobile app development using React Native.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can reach me an email at trishacapitle01@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can reach me an email at trishacapitle01@gmail.com! I'll try to respond as soon as I can.
 
 <br> <br>
 
