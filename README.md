@@ -35,7 +35,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href=""><img src="https://img.shields.io/badge/-portfolioLink-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://trishacapitle.vercel.app"><img src="https://img.shields.io/badge/-portfolioLink-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/trisha-capitle"><img src="https://img.shields.io/badge/-Trisha%20Capitle-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:trishacapitle01@gmail.com"><img src="https://img.shields.io/badge/-trishacapitle01@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://facebook.com/ash.dev01"><img src="https://img.shields.io/badge/-@ash.dev01-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
