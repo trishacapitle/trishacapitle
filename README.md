@@ -19,7 +19,7 @@
 
 ### 🛠 &nbsp;My primary techstack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,figma,git,nodejs,vite,vitest,electron,tailwind,css,html,ts&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,git,nodejs,vite,electron&perline=7)](https://skillicons.dev)
 
 <br><br><br>
 
