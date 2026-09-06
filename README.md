@@ -1,27 +1,34 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ash</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ash 👋</h2>
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" align="right">
 
-### 👨🏻‍💻 &nbsp;About Me
+Full-stack software engineer building AI-powered products.
 
-💡 &nbsp;I like to explore new technologies for front-end development and create software solutions for all types of clients.\
-🎓 &nbsp;I studied Bachelor of Science in Information Technology at University of Luzon.\
-🌱 &nbsp;I'm on track for learning more about 3D websites, GSAP, eye-catching designs, and Generative AI web development.\
-✍️ &nbsp;In my free time, I pursue 3D skills using Blender and Spline, and mobile app development using React Native.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can reach me an email at trishacapitle01@gmail.com! I'll try to respond as soon as I can.
+I work across the stack with **React, Next.js, TypeScript, Node.js, PostgreSQL, and AI/LLM integrations**, with experience building production systems involving asynchronous workflows, APIs, payments, third-party integrations, and RAG/vector search.
 
-<br> <br>
+### What I build
 
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300" align="left">
+* 🤖 AI-powered applications and LLM integrations
+* ⚛️ Full-stack web applications with React/Next.js
+* 🛠️ Node.js APIs and backend systems
+* 🔄 Asynchronous workflows and background processing
+* 🔌 Third-party integrations and production systems
+
+### Featured
+
+**AppleBites** — [applebites.ai](https://applebites.ai/) AI-powered business valuation SaaS
+Client-facing platform for business valuation, AI-assisted insights, financial assessments, reporting, and consultation workflows.
+
+**Portfolio** — [trishacapitle-v2.vercel.app](https://trishacapitle-v2.vercel.app/)
+
+### Tech
+
+**Frontend:** React · Next.js · TypeScript · Tailwind CSS
+**Backend:** Node.js · Express · PostgreSQL · REST APIs
+**AI:** Claude · OpenAI · RAG · Vector Search
+**Infrastructure:** RabbitMQ · Docker · MinIO · Stripe
 
 <br>
-
-### 🛠 &nbsp;My primary techstack:
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,git,nodejs,vite,electron&perline=7)](https://skillicons.dev)
-
-<br><br><br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -34,10 +41,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://trishacapitle.vercel.app"><img src="https://img.shields.io/badge/-portfolioLink-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/trishacapitle"><img src="https://img.shields.io/badge/-Trisha%20Capitle-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:trishacapitle01@gmail.com"><img src="https://img.shields.io/badge/-trishacapitle01@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://facebook.com/ash.dev01"><img src="https://img.shields.io/badge/-@ash.dev01-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 <details>
@@ -47,6 +52,6 @@
   	    <li><b>OS:</b> Windows 11 </li>
 	    <li><b>Laptop: </b> Acer Nitro 5</li>
   	    <li><b>Browser: </b> Opera</li>
-	    <li><b>Code Editor:</b>VSCode</li>
+	    <li><b>Code Editor:</b> Antigravity</li>
 	</ul>
 </details>
